@@ -75,7 +75,7 @@ Then install auditd with ^/apt-get install auditd
 
 Check the status of Auditd with ^/systemctl status auditd
 
-****![](<../.gitbook/assets/image (6).png>)****
+****![](<../.gitbook/assets/image (6) (1).png>)****
 
 ### Nmap
 
@@ -85,7 +85,7 @@ This tool is a powerful network scanner, that will be used to discover open port
 
 Check the version to make sure it is installed correctly with ^/nmap --version
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **SSH**
 

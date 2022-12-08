@@ -46,7 +46,7 @@ First, you will need to create the backdoor with ^/msfvenom. This is a command l
 * \-f specifies as an executable
 * \-o will be the name of the file
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The backdoor should be staged somewhere, so it is moved into the /var/www/html/ file location. It also has to have permissions updated, with the command ^/chmod +x windowsbackdoor.exe Then, once the apache2 service is loaded, the backdoor will also be ready.
 
